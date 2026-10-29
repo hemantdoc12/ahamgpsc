@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ahamgpsc.in/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://ahamgpsc.in/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ahamgpsc.in/learn/2026-10-25-digital-agriculture.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ahamgpsc.in/learn/2026-10-26-brics-parliamentary.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ahamgpsc.in/learn/2026-10-27-vavajhodu-arnab.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ahamgpsc.in/learn/2026-10-28-aapatti-vyavasthapan.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ahamgpsc.in/learn/2026-10-29-panchayat.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
